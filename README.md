@@ -1,4 +1,4 @@
-# DEZSYS_GK81_WAREHOUSE_GRPC
+# DEZSYS_GK861_WAREHOUSE_GRPC
 
 Verfasser: **Leonhard Stransky 4AHIT**
 
