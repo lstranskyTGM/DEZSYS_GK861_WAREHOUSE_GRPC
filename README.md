@@ -1,8 +1,8 @@
 # DEZSYS_GK861_WAREHOUSE_GRPC
 
-Verfasser: **Leonhard Stransky 4AHIT**
+Author: **Leonhard Stransky 4AHIT**
 
-Datum: **27.02.2024**
+Date: **2024.02.24**
 
 ## Introduction
 
@@ -404,7 +404,7 @@ Protocol Buffers support a variety of data types. Here are three examples:
 
 3. Message Types: These are complex types composed of other types. You can define your own message types, and use them as field types in other messages, creating nested data structures.
 
-## Quellen:
+## Links & Further Resources
 
 [1] https://grpc.io/
 
